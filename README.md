@@ -12,3 +12,9 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Nurlashka_kat)
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurlashka&show_icons=true&theme=radical)
+
+### WakaTime
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nurlashka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
