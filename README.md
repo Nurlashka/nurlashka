@@ -8,3 +8,6 @@ About me
 ![FastAPI](https://img.shields.io/badge/fastapi-090909?style=for-the-badge&logo=fastapi&logoColor=gree)
 ![AioHttp](https://img.shields.io/badge/aiohttp-090909?style=for-the-badge&logo=aiohttp&logoColor=00648B)
 ![Pandas](https://img.shields.io/badge/pandas-090909?style=for-the-badge&logo=pandas&logoColor=darkblue)
+
+### Contacts
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Nurlashka_kat)
