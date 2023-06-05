@@ -1,5 +1,5 @@
 ### About me
-* Backend разработчик на Python и на Java
+* Backend developer in Python and Java
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=00648B)
